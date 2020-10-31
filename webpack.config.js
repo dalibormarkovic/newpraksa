@@ -9,5 +9,5 @@ module.exports = {
             scriptLoading: 'defer'
         })
     ],
-    mode:"product"
+    mode:"development"
 }
